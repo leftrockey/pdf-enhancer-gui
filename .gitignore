@@ -1,0 +1,14 @@
+# 版权书扫描件 / 测试数据，不入库
+*.pdf
+
+# 临时对比图
+_*.png
+
+# PyInstaller 构建产物（exe 单独放 GitHub Release）
+build/
+dist/
+*.spec.bak
+
+# Python
+__pycache__/
+*.pyc
